@@ -38,12 +38,12 @@
 - [`2025JSPN_PCNR_outline.md`](presentation/2025JSPN_PCNR_outline.md) - プレゼンテーションの基となったアウトライン
 - [`2025JSPN_PCNR_Presentation.md`](presentation/2025JSPN_PCNR_Presentation.md) - Marp形式の中間プレゼンテーション資料
 - [`2025JSPN_PCNR_Presentation.pdf`](presentation/2025JSPN_PCNR_Presentation.pdf) - PDF形式の中間プレゼンテーション資料
-- [`2025JSPN_PCNR_Presentation.pptx`](presentation/2025JSPN_PCNR_Presentation.ppptx) - pptx形式の最終プレゼンテーション資料（Movie含む）
+- [`2025JSPN_PCNR_Presentation.pptx`](presentation/2025JSPN_PCNR_Presentation.pptx) - pptx形式の最終プレゼンテーション資料（Movie含む）
 
 ### 📂 生成コンテンツフォルダ
-- `generated/text/` - 生成AIで作成されたテキストファイル
-- `generated/speech/` - 生成AIで作成された音声ファイル
-- `generated/movie/` - 生成AIで作成された動画ファイル
+- [`generated/text/`](generated/text/) - 生成AIで作成されたテキストファイル
+- [`generated/speech/`](generated/speech/) - 生成AIで作成された音声ファイル
+- [`generated/movie/`](generated/movie/) - 生成AIで作成された動画ファイル
 
 ## 🔗 参考リンク・ツール
 

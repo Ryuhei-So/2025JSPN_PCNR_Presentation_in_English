@@ -23,6 +23,10 @@
 3. **発表音声生成** - Gemini AI Studioでトークスクリプトから音声を生成
 4. **質疑応答練習** - ChatGPTのAdvanced Voice Modeで実践的な会話練習
 
+#### デモ動画
+1–3: https://youtu.be/GRagMGKmN2s
+4: https://youtu.be/QgRSgsPpGX4
+
 ### 実力は磨いて
 - 論文を名刺代わりに活用
 - 事前のネットワーク構築

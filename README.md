@@ -62,6 +62,27 @@
 ### プレゼンテーション作成ツール
 - [Marp Web Editor](https://marpwebeditor.app/)
 
+## 📦 リポジトリ情報
+
+### GitHubリポジトリ
+- **URL**: https://github.com/Ryuhei-So/2025JSPN_PCNR_Presentation_in_English
+- **公開設定**: パブリック
+- **説明**: 生成AI活用で国際学会発表を乗り切る方法 - 日本精神神経学会2025年発表資料
+
+### Git LFS設定
+このリポジトリでは、大きなファイルを効率的に管理するためにGit Large File Storage (LFS) を使用しています。
+
+**LFS管理対象ファイル:**
+- `*.mp4` - 動画ファイル（デモ動画など）
+- `*.pptx` - PowerPointプレゼンテーションファイル
+
+**クローン時の注意:**
+```bash
+# Git LFSが必要です
+git lfs install
+git clone https://github.com/Ryuhei-So/2025JSPN_PCNR_Presentation_in_English.git
+```
+
 ---
 
 **発表者について**  
